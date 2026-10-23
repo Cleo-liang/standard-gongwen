@@ -1,0 +1,26 @@
+# Generated documents and render output
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tmp
+*.log
+rendered/
+output/
+outputs/
+tmp/
+temp/
+
+# Local configuration and credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
